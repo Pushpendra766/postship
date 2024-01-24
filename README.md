@@ -1,6 +1,6 @@
-# ClearLink by TalentSync
+# Postship
 
-ClearLink by TalentSync web app.
+Postship webapp.
 
 Live Preview - [Netlify Deploy](https://clearlink7.netlify.app/)
 
@@ -18,4 +18,3 @@ Live Preview - [Netlify Deploy](https://clearlink7.netlify.app/)
     ```bash
     npm run dev
     ```
-# postship
