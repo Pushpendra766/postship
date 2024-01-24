@@ -2,7 +2,7 @@
 
 Postship webapp.
 
-Live Preview - [Netlify Deploy](https://clearlink7.netlify.app/)
+Live Preview - [Netlify Deploy](https://postship7.netlify.app/)
 
 ## Setup Instructions
 
